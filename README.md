@@ -3,6 +3,12 @@
     <h1 align ="center">Hi, I'm <span style="color: #ff0000">Andrés</span> :thumbsup:</h1>
     <h3 align ="center">I'm a passionate of web development. I love programming and create new features.</h3>
 </div>
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="https://www.linkedin.com/in/andresito87/" title="LinkedIn" alt="LinkedIn" width="100"
+ height="100" />&nbsp;
+    <img src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/gmail.png" title="LinkedIn" alt="LinkedIn" width="120"
+ height="120" />&nbsp;
+</div>
 
 
 <!--
