@@ -35,6 +35,8 @@
  height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="VSCode" width="80"
  height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="VSCode" width="80"
+ height="80" />&nbsp;
 </div>
 
 
