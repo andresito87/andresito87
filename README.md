@@ -33,6 +33,8 @@
  height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="80"
  height="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="VSCode" width="80"
+ height="80" />&nbsp;
 </div>
 
 
