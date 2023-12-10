@@ -4,7 +4,7 @@
     <h3 align ="center">I'm a passionate of web development. I love programming and create new features.</h3>
 </div>
 <div id="technologies" align="center">
-    <h3> :hammer: Languages and Tools: </h3>
+    <h3> :hammer: :computer: Languages and Tools: </h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="80"
  height="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="80"
