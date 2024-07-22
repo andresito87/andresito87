@@ -1,5 +1,5 @@
 <div id = "header" align="center">
-    <img src="https://github.com/andresito87/Archivos-Sueltos/blob/master/imagen_robot.jpeg?raw=true" width="200"/>
+    <img src="https://github.com/andresito87/Pictures/blob/main/imagen_robot.jpeg?raw=true" width="200"/>
     <h1 align ="center">Hi, I'm <span style="color: #ff0000">Andrés</span> :thumbsup:</h1>
     <h3 align ="center">I'm a passionate of web development. I love programming and create new features.</h3>
 </div>
