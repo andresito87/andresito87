@@ -119,12 +119,16 @@ Proyectos y ejercicios de React Native para desarrollo móvil multiplataforma.
 <!-- Streak Stats usa streak-stats.demolab.com (servicio externo fiable) -->
 
 <p align="center">
-  <img width="49%" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=andresito87&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/andresito87">
+    <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/andresito87">
+    <img height="180" src="https://streak-stats.demolab.com?user=andresito87&theme=github_dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img height="160" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
