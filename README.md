@@ -17,17 +17,17 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 Desarrollador de aplicaciones web y móviles con sede en **Málaga, España**. Me apasiona construir soluciones completas — desde APIs REST con Spring Boot y Node.js, hasta interfaces interactivas con React y aplicaciones nativas con Kotlin y Flutter.
 
-- Trabajo con el stack completo: **frontend, backend, bases de datos y despliegue**
-- Experiencia en contenedorización con **Docker** y servicios en la nube con **AWS**
-- Siempre aprendiendo y compartiendo conocimiento a través de mis repositorios
+- 🔭 Trabajo con el stack completo: **frontend, backend, bases de datos y despliegue**
+- 🐳 Experiencia en contenedorización con **Docker** y servicios en la nube con **AWS**
+- 🌱 Siempre aprendiendo y compartiendo conocimiento a través de mis repositorios
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -67,14 +67,14 @@ Desarrollador de aplicaciones web y móviles con sede en **Málaga, España**. M
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [book-social-network](https://github.com/andresito87/book-social-network)
+### [📚 book-social-network](https://github.com/andresito87/book-social-network)
 Red social para el préstamo de libros. Proyecto full-stack con gestión de usuarios, catálogo y sistema de préstamos.
 
 `TypeScript`
@@ -82,7 +82,7 @@ Red social para el préstamo de libros. Proyecto full-stack con gestión de usua
 </td>
 <td width="50%" valign="top">
 
-### [SpringBootApp-Dockerizada](https://github.com/andresito87/SpringBootApp-Dockerizada)
+### [🐳 SpringBootApp-Dockerizada](https://github.com/andresito87/SpringBootApp-Dockerizada)
 Aplicación Spring Boot containerizada con Docker. Ejemplo de arquitectura backend lista para producción.
 
 `Java` `Docker` `Spring Boot`
@@ -92,7 +92,7 @@ Aplicación Spring Boot containerizada con Docker. Ejemplo de arquitectura backe
 <tr>
 <td width="50%" valign="top">
 
-### [GamingApp](https://github.com/andresito87/GamingApp)
+### [🎮 GamingApp](https://github.com/andresito87/GamingApp)
 Aplicación móvil Android desarrollada con Kotlin y Jetpack Compose, demostrando desarrollo nativo moderno.
 
 `Kotlin` `Jetpack Compose`
@@ -100,7 +100,7 @@ Aplicación móvil Android desarrollada con Kotlin y Jetpack Compose, demostrand
 </td>
 <td width="50%" valign="top">
 
-### [Curso-React-Native](https://github.com/andresito87/Curso-React-Native)
+### [📱 Curso-React-Native](https://github.com/andresito87/Curso-React-Native)
 Proyectos y ejercicios de React Native para desarrollo móvil multiplataforma.
 
 `TypeScript` `React Native`
@@ -112,16 +112,44 @@ Proyectos y ejercicios de React Native para desarrollo móvil multiplataforma.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=andresito87&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=andresito87&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<!-- Stats Card con soporte dark/light mode -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=andresito87&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=andresito87&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andresito87&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
+</picture>
+
+<!-- Streak Stats - URL actualizada (demolab.com reemplaza a herokuapp.com) -->
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=andresito87&theme=github-dark-blue&hide_border=true&background=0D1117"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://streak-stats.demolab.com?user=andresito87&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=andresito87&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</picture>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresito87&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+<!-- Top Languages Card -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andresito87&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andresito87&layout=compact&hide_border=true&langs_count=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresito87&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
 
