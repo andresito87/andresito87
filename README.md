@@ -114,44 +114,18 @@ Proyectos y ejercicios de React Native para desarrollo móvil multiplataforma.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- Stats y Top Languages se generan como SVGs estáticos via GitHub Actions -->
+<!-- Ver .github/workflows/grs.yml — se actualizan diariamente a las 3:00 AM UTC -->
+<!-- Streak Stats usa streak-stats.demolab.com (servicio externo fiable) -->
 
-<!-- Stats Card con soporte dark/light mode -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andresito87&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andresito87&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andresito87&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
-</picture>
-
-<!-- Streak Stats - URL actualizada (demolab.com reemplaza a herokuapp.com) -->
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=andresito87&theme=github-dark-blue&hide_border=true&background=0D1117"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://streak-stats.demolab.com?user=andresito87&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+<p align="center">
+  <img width="49%" src="./profile/stats.svg" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=andresito87&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</picture>
+</p>
 
-<br/>
-
-<!-- Top Languages Card -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andresito87&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andresito87&layout=compact&hide_border=true&langs_count=8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresito87&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</picture>
-
-</div>
+<p align="center">
+  <img width="40%" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 ---
 
