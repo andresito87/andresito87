@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://github.com/andresito87/Pictures/blob/main/imagen_robot.jpeg?raw=true" width="150" style="border-radius: 50%;" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hola%2C+soy+Andr%C3%A9s+Podadera+%F0%9F%91%8B;Web+%26+Mobile+Apps+Developer)](https://git.io/typing-svg)
 
 <p>
@@ -19,11 +16,11 @@
 
 ## 🧑‍💻 About Me
 
-Desarrollador de aplicaciones web y móviles con sede en **Málaga, España**. Me apasiona construir soluciones completas — desde APIs REST con Spring Boot y Node.js, hasta interfaces interactivas con React y aplicaciones nativas con Kotlin y Flutter.
+Me apasiona construir soluciones completas — desde APIs REST con Spring Boot y Node.js, hasta interfaces interactivas con React y aplicaciones nativas con Kotlin.
 
 - 🔭 Trabajo con el stack completo: **frontend, backend, bases de datos y despliegue**
-- 🐳 Experiencia en contenedorización con **Docker** y servicios en la nube con **AWS**
-- 🌱 Siempre aprendiendo y compartiendo conocimiento a través de mis repositorios
+- 🐳 Experiencia en contenedorización con **Docker** y servicios en la nube con **AWS** y **Google Cloud**
+- 🌱 Siempre buscando nuevos retos y aprendiendo.
 
 ---
 
@@ -33,7 +30,6 @@ Desarrollador de aplicaciones web y móviles con sede en **Málaga, España**. M
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -63,51 +59,6 @@ Desarrollador de aplicaciones web y móviles con sede en **Málaga, España**. M
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [📚 book-social-network](https://github.com/andresito87/book-social-network)
-Red social para el préstamo de libros. Proyecto full-stack con gestión de usuarios, catálogo y sistema de préstamos.
-
-`TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### [🐳 SpringBootApp-Dockerizada](https://github.com/andresito87/SpringBootApp-Dockerizada)
-Aplicación Spring Boot containerizada con Docker. Ejemplo de arquitectura backend lista para producción.
-
-`Java` `Docker` `Spring Boot`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🎮 GamingApp](https://github.com/andresito87/GamingApp)
-Aplicación móvil Android desarrollada con Kotlin y Jetpack Compose, demostrando desarrollo nativo moderno.
-
-`Kotlin` `Jetpack Compose`
-
-</td>
-<td width="50%" valign="top">
-
-### [📱 Curso-React-Native](https://github.com/andresito87/Curso-React-Native)
-Proyectos y ejercicios de React Native para desarrollo móvil multiplataforma.
-
-`TypeScript` `React Native`
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
