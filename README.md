@@ -1,93 +1,94 @@
-<div align="center">
+<h1 style="text-align: center">Andrés Podadera</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hola%2C+soy+Andr%C3%A9s+Podadera+%F0%9F%91%8B;Web+%26+Mobile+Apps+Developer)](https://git.io/typing-svg)
+<p style="text-align: center"><strong>Full-Stack &amp; Mobile Developer</strong> building web platforms and native applications from end to end.</p>
 
-<p>
-  <a href="https://www.andrescoder.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-andrescoder.dev-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/andresito87/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-andresito87-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:andrespodadera87@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p style="text-align: center">
+  <a href="https://www.andrescoder.dev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Portfolio-andrescoder.dev-58A6FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio — andrescoder.dev" /></a>
+  <a href="https://www.linkedin.com/in/andresito87/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-andresito87-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn — andresito87" /></a>
+  <a href="https://www.youtube.com/@andrespodadera5874" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-@andrespodadera5874-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube — @andrespodadera5874" /></a>
+  <a href="mailto:andrespodadera87@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email — andrespodadera87@gmail.com" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=andresito87&style=flat-square&color=58A6FF" alt="Profile views" />
+<h2 style="text-align: center">About</h2>
 
-</div>
+I build end-to-end products: web platforms and REST APIs with Laravel, Spring Boot, and NestJS; type-safe frontends with
+React and Next.js; and native Android apps with Kotlin and Jetpack Compose. I focus on clean architecture, testable
+code, and shipping features users can actually feel.
 
----
+- 🧩 I work across the full stack — APIs, frontends, databases, and deployment.
+- 📱 Native Android with Jetpack Compose, plus Kotlin Multiplatform for shared business logic.
+- 🚀 Containerized with Docker and automated with GitHub Actions.
+- 🧪 API documentation and testing with OpenAPI/Swagger and Postman, backed by automated tests with Jest, Pest, and
+  PHPUnit.
 
-## 🧑‍💻 About Me
+<h2 align="center">What I build</h2>
 
-Me apasiona construir soluciones completas — desde APIs REST con Spring Boot y Node.js, hasta interfaces interactivas con React y aplicaciones nativas con Kotlin.
+| Project                                                                                | What it is                                                                                                 | Stack                                                                     |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [**CashTracker**](https://github.com/andresito87/cashtracker)                          | Personal-finance SaaS with budgets, AI-assisted expense entry, receipt scanning, and Stripe subscriptions. | Laravel 13 · Inertia 3 · React 19 · TypeScript · Tailwind 4 · PostgreSQL  |
+| [**Events API**](https://github.com/andresito87/Curso-Springboot/tree/main/events-api) | Production-style REST API for events, categories, speakers, and JWT-authenticated users.                   | Java 21 · Spring Boot · Spring Security · PostgreSQL · Docker · MapStruct |
+| [**AndalusiaTrials**](https://github.com/andresito87/AndalusiaTrials)                  | Android geolocated scavenger hunt across Andalusia with Google Maps and Google Routes.                     | Kotlin · Jetpack Compose · Google Maps Compose · Retrofit                 |
+| [**SpyroTheDragonApp**](https://github.com/andresito87/SpyroTheDragonApp)              | Spyro-themed Android experience with guided onboarding, responsive layouts, multimedia, and easter eggs.   | Kotlin · Jetpack Compose · Material 3 · DataStore · Media3                |
+| [**NutriSport**](https://github.com/andresito87/NutriSport)                            | Multi-platform sports-nutrition store with seller/admin flows and a Firebase backend.                      | Kotlin Multiplatform · Compose Multiplatform · Firebase · Ktor            |
+| [**JRNL**](https://github.com/andresito87/JRNL)                                        | iOS journaling app with photos, maps, ratings, and on-device Apple Intelligence assistance.                | Swift 6 · UIKit · MapKit · FoundationModels                               |
 
-- 🔭 Trabajo con el stack completo: **frontend, backend, bases de datos y despliegue**
-- 🐳 Experiencia en contenedorización con **Docker** y servicios en la nube con **AWS** y **Google Cloud**
-- 🌱 Siempre buscando nuevos retos y aprendiendo.
+<h2 style="text-align: center">Core stack</h2>
 
----
+<h3 style="text-align: center">Frontend</h3>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Backend & Databases
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<!-- Stats y Top Languages se generan como SVGs estáticos via GitHub Actions -->
-<!-- Ver .github/workflows/grs.yml — se actualizan diariamente a las 3:00 AM UTC -->
-<!-- Streak Stats usa streak-stats.demolab.com (servicio externo fiable) -->
-
-<p align="center">
-  <a href="https://github.com/andresito87">
-    <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/andresito87">
-    <img height="180" src="https://streak-stats.demolab.com?user=andresito87&theme=github_dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-  </a>
+<p style="text-align: center">
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" alt="TypeScript" width="48" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noopener" title="React"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" width="48" /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noopener" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" alt="Next.js" width="48" /></a>
+  <a href="https://angular.dev/" target="_blank" rel="noopener" title="Angular"><img src="https://skillicons.dev/icons?i=angular&amp;theme=dark" alt="Angular" width="48" /></a>
+  <a href="https://tailwindcss.com/docs" target="_blank" rel="noopener" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" alt="Tailwind CSS" width="48" /></a>
+  <a href="https://vite.dev/" target="_blank" rel="noopener" title="Vite"><img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" alt="Vite" width="48" /></a>
+  <a href="https://inertiajs.com/" target="_blank" rel="noopener" title="Inertia.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" alt="Inertia.js" width="48" height="48" /></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noopener" title="Zustand"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" alt="Zustand" width="48" height="48" /></a>
 </p>
 
-<p align="center">
-  <img height="160" src="./profile/top-langs.svg" alt="Top Languages" />
+<h3 style="text-align: center">Backend &amp; data</h3>
+
+<p style="text-align: center">
+  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noopener" title="Java"><img src="https://skillicons.dev/icons?i=java&amp;theme=dark" alt="Java" width="48" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring&amp;theme=dark" alt="Spring Boot" width="48" /></a>
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noopener" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" alt="Node.js" width="48" /></a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noopener" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs&amp;theme=dark" alt="NestJS" width="48" /></a>
+  <a href="https://www.php.net/docs.php" target="_blank" rel="noopener" title="PHP"><img src="https://skillicons.dev/icons?i=php&amp;theme=dark" alt="PHP" width="48" /></a>
+  <a href="https://laravel.com/docs" target="_blank" rel="noopener" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&amp;theme=dark" alt="Laravel" width="48" /></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noopener" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" width="48" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" alt="MySQL" width="48" /></a>
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" alt="MongoDB" width="48" /></a>
+  <a href="https://firebase.google.com/docs" target="_blank" rel="noopener" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase&amp;theme=dark" alt="Firebase" width="48" /></a>
 </p>
 
----
+<h3 align="center">Tooling &amp; delivery</h3>
 
-<div align="center">
-  <i>Open to collaborations and new opportunities — feel free to reach out!</i>
+<p style="text-align: center">
+  <a href="https://docs.docker.com/" target="_blank" rel="noopener" title="Docker"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" alt="Docker" width="48" height="48" /></a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noopener" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" alt="GitHub Actions" width="48" height="48" /></a>
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noopener" title="Amazon Web Services"><img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" alt="Amazon Web Services" width="48" height="48" /></a>
+  <a href="https://nginx.org/en/docs/" target="_blank" rel="noopener" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx&amp;theme=dark" alt="Nginx" width="48" height="48" /></a>
+  <a href="https://maven.apache.org/guides/" target="_blank" rel="noopener" title="Maven"><img src="https://skillicons.dev/icons?i=maven&amp;theme=dark" alt="Maven" width="48" height="48" /></a>
+  <a href="https://learning.postman.com/docs/" target="_blank" rel="noopener" title="Postman"><img src="https://skillicons.dev/icons?i=postman&amp;theme=dark" alt="Postman" width="48" height="48" /></a>
+  <a href="https://docs.github.com/" target="_blank" rel="noopener" title="GitHub"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" width="48" height="48" /></a>
+  <a href="https://docs.kernel.org/" target="_blank" rel="noopener" title="Linux"><img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" alt="Linux" width="48" height="48" /></a>
+</p>
 
-  <br/><br/>
+<h3 style="text-align: center">Mobile</h3>
 
-  [![GitHub](https://img.shields.io/badge/Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresito87)
-</div>
+<p style="text-align: center">
+  <a href="https://developer.android.com/" target="_blank" rel="noopener" title="Android"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="48" height="48" /></a>
+  <a href="https://developer.android.com/develop/ui/compose" target="_blank" rel="noopener" title="Jetpack Compose"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="48" height="48" /></a>
+  <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank" rel="noopener" title="Kotlin Multiplatform"><img src="https://skillicons.dev/icons?i=kotlin&amp;theme=dark" alt="Kotlin Multiplatform" width="48" height="48" /></a>
+  <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noopener" title="React Native"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" alt="React Native" width="48" height="48" /></a>
+  <a href="https://www.swift.org/documentation/" target="_blank" rel="noopener" title="Swift"><img src="https://skillicons.dev/icons?i=swift&amp;theme=dark" alt="Swift" width="48" height="48" /></a>
+</p>
+
+<h2 style="text-align: center">GitHub activity</h2>
+
+<p style="text-align: center">
+  <a href="https://github.com/andresito87" target="_blank" rel="noopener"><img src="https://github-stats-extended.vercel.app/api?username=andresito87&amp;show_icons=true&amp;theme=github_dark&amp;bg_color=30,0D1117,161B22&amp;border_color=30363D&amp;border_radius=10&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;rank_icon=github" alt="GitHub summary stats for andresito87" /></a>
+  <a href="https://github.com/andresito87" target="_blank" rel="noopener"><img src="https://streak-stats.demolab.com?user=andresito87&amp;theme=github_dark&amp;background=30,0D1117,161B22&amp;border=30363D&amp;stroke=30363D&amp;border_radius=10&amp;card_width=467&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=58A6FF&amp;sideLabels=C9D1D9&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;dates=8B949E&amp;disable_animations=true" alt="GitHub contribution streak for andresito87" /></a>
+</p>
+<p style="text-align: center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andresito87&amp;layout=compact&amp;theme=github_dark&amp;bg_color=30,0D1117,161B22&amp;border_color=30363D&amp;border_radius=10&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;card_width=380&amp;langs_count=8&amp;cache_seconds=21600" alt="Most-used languages across andresito87's public repositories" width="467" /></p>
